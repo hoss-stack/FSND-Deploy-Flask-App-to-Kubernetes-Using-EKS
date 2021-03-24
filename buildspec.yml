@@ -43,4 +43,3 @@ phases:
 artifacts:
   files:
     - build.json
-    - simple_jwt_api.yml
