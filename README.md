@@ -12,6 +12,9 @@ The Flask app that will be used for this project consists of a simple API with t
 
 The app relies on a secret set in AWS parameter storage `JWT_SECRET` to produce a JWT.  server when deploying the app.
 
+## App AWS Link
+[APP Link](http://a23d688b712e34eb0acb8c714349368d-724985111.eu-west-1.elb.amazonaws.com)
+
 ## Dependencies
 
 - Docker Engine
