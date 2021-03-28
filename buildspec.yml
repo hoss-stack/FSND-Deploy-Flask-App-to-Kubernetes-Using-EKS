@@ -44,5 +44,7 @@ artifacts:
   files: build.json
 
 env:
+  variables:
+    LOG_LEVEL: "INFO"
   parameter-store:
     JWT_SECRET: JWT_SECRET
